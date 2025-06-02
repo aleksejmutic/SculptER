@@ -5,6 +5,13 @@ This project was developed as part of the Software specification and modelling c
 
 ---
 
+##  What I Learned
+
+Through this project, I learned how to approach software development from a design-first perspective. I explored modeling tools like SAP PowerDesigner, worked with RUP templates, and planned a clean architectural structure. 
+This process helped reinforce the importance of preparation and planning before jumping into code.
+
+---
+
 ##  Project Status
 
  **Prototype Stage Only**  
@@ -55,11 +62,3 @@ While this is only a prototype, the project is being designed with extendability
 -  RUP Templates
 -  PowerDesigner Models
 -  Implementation Plan
-
----
-
-##  What I Learned
-
-Through this project, I learned how to approach software development from a design-first perspective. I explored modeling tools like SAP PowerDesigner, worked with RUP templates, and planned a clean architectural structure. 
-This process helped reinforce the importance of preparation and planning before jumping into code.
-
