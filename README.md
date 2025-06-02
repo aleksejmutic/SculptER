@@ -44,14 +44,14 @@ The primary goal of SculptER is to design and prepare the structure for a fully-
 | **SAP PowerDesigner** | UML modeling (use case, class diagrams, etc.) |
 | **Rational Unified Process (RUP)** | Structured development methodology |
 | **Java Swing (planned)** | Planned GUI framework |
-| **Git/GitHub** | Version control and collaboration |
+| **Subversion** | Version control and collaboration |
 
 ---
 
 ##  Design Patterns & Architecture
 
 While this is only a prototype, the project is being designed with extendability and maintainability in mind. Planned concepts include:
-- **MVC / MVP architectural patterns**
+- **Model-View-Delegate architectural patterns**
 - **Component-based UI**
 - Clear separation of concerns
 
