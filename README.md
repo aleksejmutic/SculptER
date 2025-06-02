@@ -1,4 +1,4 @@
-# SculptER 🗿
+# SculptER (Database Modelling Graphical Editor Tool)
 
 SculptER is a prototype for a desktop application focused on visual modeling and diagram management. The goal is to establish a solid foundation using software modeling tools and structured development methodologies.
 This project was developed as part of the Software specification and modelling course during the 3rd year at the Faculty of Electrical Engineering in East Sarajevo.
