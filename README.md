@@ -33,7 +33,7 @@ The primary goal of SculptER is to design and prepare the structure for a fully-
 
 ##  Visuals
 
-![Prototype UI](https://i.imgur.com/yourImage.gif) <!-- Replace with your image link -->
+![SculptER UI Prototype](https://i.imgur.com/1zlX4wu.png)
 
 ---
 
